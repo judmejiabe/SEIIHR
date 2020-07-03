@@ -1,6 +1,6 @@
 # MODELO SEIIHR
 
-Modelo simple del tipo SEIR para transmisión del COVID-19. Basado en https://github.com/mrc-ide/squire.
+Modelo simple del tipo SEIR para transmisión de SARS-CoV-2. Basado en https://github.com/mrc-ide/squire.
 
 ## Configuración
 
