@@ -12,4 +12,4 @@ Para correr los archivos de este repositorio es necesario una versión de Python
 2. El archivo `SEIIHR.py` contiene el código necesario para correr los escenarios.
 3. El archivo `SEIIHR_Notebook.ipynb` contiene los escenarios simulados con el módulo `SEIIHR.py`.
 4. El archivo `Datos_Movimiento.xlsx` contiene el índice de movilidad utilizado para ajustar los modelos.
-5. Los archivos de excel `Escenario_[i].xlsx` son los resultados diarios de los escenarios simulados.
+5. Los archivos `Escenario_[i].xlsx` son los resultados diarios de los escenarios simulados (ver archivo 3.).
